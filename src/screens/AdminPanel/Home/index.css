@@ -1,0 +1,136 @@
+#apppage1 .view {
+    background-image: url('../../../assets/MainPageBack/bg8.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    }
+    
+    #apppage1 h6 {
+    line-height: 1.7;
+    }
+    #apppage1 .gradient {
+		background: -moz-linear-gradient(360deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) 100%);
+		background: -webkit-linear-gradient(360deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) 100%);
+		background: -webkit-gradient(linear, 360deg, from rgba(0, 0, 0, 0.7), to rgba(0, 0, 0, 0.7));
+		background: -o-linear-gradient(360deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) 100%);
+		background: linear-gradient(360deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) 100%);
+    }
+    
+    .cardstyles{
+      background: #eceff1 !important;
+      opacity: 0.9 !important;
+      border-radius: 0.5em 0.5em 0.5em 0.5em !important;
+      box-shadow: 0px 2px 0px #ffff!important;
+      height: 100% !important;
+       margin-top: 5% !important;
+       margin-left: 15% !important; 
+      margin-right: 15% !important;
+      box-shadow: 5px #fff !important;
+    }
+     
+    .cardstyles1{
+      background: #eceff1 !important;
+      opacity: 0.9 !important;
+      border-radius: 0.5em 0.5em 0.5em 0.5em !important;
+      box-shadow: 0px 2px 0px #ffff!important;
+      height: 90% !important;
+       margin-top: 4% !important;
+       margin-left: 15% !important; 
+      margin-right: 15% !important;
+      box-shadow: 5px #fff !important;
+    
+    }
+    .cardstyles2{
+      background: #eceff1 !important;
+      opacity: 0.9 !important;
+      border-radius: 0.5em 0.5em 0.5em 0.5em !important;
+      box-shadow: 0px 2px 0px #ffff!important;
+      height: 90% !important;
+       margin-top: 3% !important;
+       margin-left: 15% !important; 
+      margin-right: 15% !important;
+      box-shadow: 5px #fff !important;
+    
+    }
+    .Avatarstyle{
+      width: 120px !important;
+      border-radius: 60px !important;
+    margin-left: 45% !important;
+      height: 120px !important;
+      margin-top: -80px !important;
+      border: 3px solid #ffff !important;
+    }
+    .imagestyle{
+      border-radius: 60px !important;
+    
+    }
+    
+    .AdminNames{
+      font-family: georgia !important;
+      color: #212121 !important;
+      margin-top: -10px !important;
+    margin-left: 45% !important; 
+    font: bold !important; 
+    }
+    .superAdminEmail{
+      font-family: cambria !important;
+      color: #00695c !important;
+      margin-top: -5% !important;
+
+    
+    }
+
+    .CardHeader{
+      height: 60% !important;
+      background-image: url('../../../assets/MainPageBack/bg10.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+      
+    }
+    .CardHeader1{
+      height: 70% !important;
+      background-image: url('../../../assets/MainPageBack/bg10.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+             
+    }
+
+    
+    .adminLogOutButton{
+      float: right !important;
+      margin-top: -5% !important;
+      /* background: #0d47a1 !important; */
+      opacity: 0.8 !important;
+    }
+    
+    .adminLogOutButton1{
+      margin-left: 17% !important;
+      /* background: #0d47a1 !important; */
+      opacity: 0.8 !important;
+      width: 60% !important;
+      margin-top: -1.5% !important;
+
+    }
+    
+    label{
+      color: #000 !important;
+      font-family: cambria !important;
+    }
+    
+    input {
+      color: #000 !important;
+    }
+    .listItem{
+
+      font-family: cambria !important;
+      color: #000 !important;
+      border: 1px solid #000 !important;
+      border-radius: 20px 20px 20px 20px !important;
+      list-style: none !important; 
+      margin-left: -17% !important;     
+    }
+
+    

@@ -1,0 +1,67 @@
+.App{
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.App-logo{
+	width: 10rem;
+}
+
+.flyout {
+	display:flex;
+	flex-direction: column;
+	min-height:100vh;
+	justify-content: space-between;
+}
+
+.home-feature-box .fa {
+	font-size:6rem;
+}
+
+.home-feature-box span {
+	display: block;
+	color:#111;
+	font-weight:bold;
+	margin-top:1.5rem;
+}
+
+.example-components-list li > a {
+  color: #495057;
+}
+
+.example-components-list li:last-child > a {
+	border-bottom:0;
+}
+
+.example-components-list li > a .fa {
+	color:rgba(0,0,0,.35);
+	float:right;
+}
+
+.view {
+	background-image: url('https://mdbootstrap.com/img/Photos/Others/images/91.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	height: 100vh;
+	}
+	
+	.gradient {
+	background: -webkit-linear-gradient(45deg, rgba(0, 0, 0, 0.7), rgba(72, 15, 144, 0.4) 100%);
+	background: -webkit-gradient(linear, 45deg, from(rgba(0, 0, 0, 0.7), rgba(72, 15, 144, 0.4) 100%));
+	background: linear-gradient(to 45deg, rgba(0, 0, 0, 0.7), rgba(72, 15, 144, 0.4) 100%);
+	}
+	
+	.card {
+	background-color: rgba(126, 123, 215, 0.2);
+	}
+	
+	h6 {
+	line-height: 1.7;
+	}
+	
+	
